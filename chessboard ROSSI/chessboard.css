@@ -1,0 +1,35 @@
+#demo1 {
+    width: 400px;
+    height: 400px;
+    border: 2px solid black;
+    display: flex;
+    flex-wrap: wrap;
+}
+.cell-textfield{
+    width:800 px;
+    height:600px;
+
+}
+.cell {
+    width: 50px;
+    height: 50px;
+    
+}
+
+.white {
+    background-color: white;
+}
+
+.black {
+    background-color: black;
+}
+
+.selected {
+    outline: 3px solid yellow;
+}
+.additional1{
+    background-color: red;
+}
+.additional2{
+    background-color: blue;
+}
